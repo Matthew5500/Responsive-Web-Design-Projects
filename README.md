@@ -8,4 +8,7 @@ This project involves creating a Cat Photo App to review fundamental HTML concep
 This project involves creating a Cafe Menu to review fundamental CSS concepts. The menu features a responsive design with styled sections for coffee and desserts, utilizing various CSS properties to enhance layout, typography, and visual appeal.
 
 # Project #3 - Reviewing CSS Colors by Building a Set of Colored Markers
-In this project, I built a set of colored markers to explore different ways to apply colors in CSS and learn basic color theory. The project demonstrates the use of various color values, gradients, and shadow effects to enhance the visual appeal of a webpage. Follow along to see how color choices can impact the aesthetic quality of web design.
+In this project, I built a set of colored markers to explore different ways to apply colors in CSS and learn basic color theory. The project demonstrates the use of various color values, gradients, and shadow effects to enhance the visual appeal of a webpage.
+
+# Project #4 - Reviewing HTML Forms by Building a Registration Form
+In this project, I built a registration form to review HTML form elements and basic CSS styling. The form includes fields for personal information, account type selection, file uploads, and more.
