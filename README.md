@@ -12,3 +12,6 @@ In this project, I built a set of colored markers to explore different ways to a
 
 # Project #4 - Reviewing HTML Forms by Building a Registration Form
 In this project, I built a registration form to review HTML form elements and basic CSS styling. The form includes fields for personal information, account type selection, file uploads, and more.
+
+# Project #5 - Survey Form
+In this project, I created a survey form that includes fields for name, age, email, phone number, and address, along with dropdowns, radio buttons, and checkboxes for additional information. I styled the form with modern CSS, featuring a semi-transparent dark mode background and a fixed image for added visual appeal.
