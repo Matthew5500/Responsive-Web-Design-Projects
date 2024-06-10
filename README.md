@@ -15,3 +15,6 @@ In this project, I built a registration form to review HTML form elements and ba
 
 # Project #5 - Survey Form
 In this project, I created a survey form that includes fields for name, age, email, phone number, and address, along with dropdowns, radio buttons, and checkboxes for additional information. I styled the form with modern CSS, featuring a semi-transparent dark mode background and a fixed image for added visual appeal.
+
+# Project #6 - Reviewing CSS Box Model by Building a Rothko Painting
+In this project, I explored the CSS Box Model by creating a Rothko-style painting. The project demonstrates how to use CSS to manipulate the box model properties, including spacing, borders, and shadows, to design abstract rectangular art pieces.
