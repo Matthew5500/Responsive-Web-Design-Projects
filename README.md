@@ -18,3 +18,6 @@ In this project, I created a survey form that includes fields for name, age, ema
 
 # Project #6 - Reviewing CSS Box Model by Building a Rothko Painting
 In this project, I explored the CSS Box Model by creating a Rothko-style painting. The project demonstrates how to use CSS to manipulate the box model properties, including spacing, borders, and shadows, to design abstract rectangular art pieces.
+
+# Project #7 - Reviewing CSS Flexbox by Building a Photo Gallery
+In this project, I utilized CSS Flexbox to create a responsive photo gallery. The project showcases the power of Flexbox in designing web pages that adapt seamlessly to different screen sizes.
