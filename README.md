@@ -24,3 +24,6 @@ In this project, I utilized CSS Flexbox to create a responsive photo gallery. Th
 
 # Project #8 - Reviewing Typography by Building a Nutrition Label
 In this project, I explored the principles of typography to create a nutrition label webpage. The main focus was styling text, adjusting line height, and positioning elements using CSS. This project demonstrates how typography can enhance textual information's readability and visual appeal.
+
+# Project #9 - Reviewing Accessibility by Building a Quiz
+In this project, I focused on accessibility by creating a quiz webpage. The project covers key accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices to ensure the webpage is usable by everyone, including people with disabilities.
