@@ -27,3 +27,6 @@ In this project, I explored the principles of typography to create a nutrition l
 
 # Project #9 - Reviewing Accessibility by Building a Quiz
 In this project, I focused on accessibility by creating a quiz webpage. The project covers key accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices to ensure the webpage is usable by everyone, including people with disabilities.
+
+# Project #10 - Tribute Page
+In this project, I created a tribute page dedicated to Stan Lee, the legendary co-creator of Marvel Comics. The page includes a timeline of his life, a prominent image with a caption, and a notable quote from Kevin Feige. This project emphasizes proper HTML structure, effective use of CSS for styling, and the creation of a visually appealing and informative tribute.
