@@ -30,3 +30,6 @@ In this project, I focused on accessibility by creating a quiz webpage. The proj
 
 # Project #10 - Tribute Page
 In this project, I created a tribute page dedicated to Stan Lee, the legendary co-creator of Marvel Comics. The page includes a timeline of his life, a prominent image with a caption, and a notable quote from Kevin Feige. This project emphasizes proper HTML structure, effective use of CSS for styling, and the creation of a visually appealing and informative tribute.
+
+# Project #11 - Reviewing More About CSS Pseudo Selectors by Building a Balance Sheet
+In this project, I utilized CSS pseudo selectors to build an interactive balance sheet for AcmeWidgetCorp. The project demonstrates how to use pseudo selectors to style specific HTML elements dynamically, including changing styles on hover and triggering various events.
