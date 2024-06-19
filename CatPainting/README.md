@@ -1,0 +1,2 @@
+# Project #12 - Reviewing Intermediate CSS by Building a Cat Painting
+In this project, I explored intermediate CSS techniques to create a cat painting. The project demonstrates how to effectively use CSS positioning properties, such as absolute positioning, the z-index property, and the transform property, to design and layer elements. This exercise not only reinforces fundamental CSS skills but also highlights advanced methods for achieving complex and visually appealing web layouts.
