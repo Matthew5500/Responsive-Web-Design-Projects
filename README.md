@@ -33,3 +33,6 @@ In this project, I created a tribute page dedicated to Stan Lee, the legendary c
 
 # Project #11 - Reviewing More About CSS Pseudo Selectors by Building a Balance Sheet
 In this project, I utilized CSS pseudo selectors to build an interactive balance sheet for AcmeWidgetCorp. The project demonstrates how to use pseudo selectors to style specific HTML elements dynamically, including changing styles on hover and triggering various events.
+
+# Project #12 - Reviewing Intermediate CSS by Building a Cat Painting
+In this project, I explored intermediate CSS techniques to create a cat painting. The project demonstrates how to effectively use CSS positioning properties, such as absolute positioning, the z-index property, and the transform property, to design and layer elements. This exercise not only reinforces fundamental CSS skills but also highlights advanced methods for achieving complex and visually appealing web layouts.
