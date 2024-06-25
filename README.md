@@ -36,3 +36,6 @@ In this project, I utilized CSS pseudo selectors to build an interactive balance
 
 # Project #12 - Reviewing Intermediate CSS by Building a Cat Painting
 In this project, I explored intermediate CSS techniques to create a cat painting. The project demonstrates how to effectively use CSS positioning properties, such as absolute positioning, the z-index property, and the transform property, to design and layer elements. This exercise not only reinforces fundamental CSS skills but also highlights advanced methods for achieving complex and visually appealing web layouts.
+
+# Project #13 - Technical Documentation Page
+In this project, I developed a technical documentation page for Java programming. The project demonstrates how to create a structured and responsive documentation layout using HTML and CSS. Key sections include an introduction to Java, syntax, variables, data types, and control flow. This exercise highlights the importance of semantic HTML elements and CSS styling techniques, such as fixed positioning and media queries, to ensure the documentation is user-friendly and accessible on various devices. Through this project, I've enhanced my skills in organizing and presenting technical information effectively on the web.
