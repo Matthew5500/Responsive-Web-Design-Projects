@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Java Technical Documentation</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <nav id="navbar">
+            <header>Java Documentation</header>
+            <a class="nav-link" href="#Introduction">Introduction</a>
+            <a class="nav-link" href="#Syntax">Syntax</a>
+            <a class="nav-link" href="#Variables">Variables</a>
+            <a class="nav-link" href="#Data_Types">Data Types</a>
+            <a class="nav-link" href="#Control_Flow">Control Flow</a>
+        </nav>
+
+        <main id="main-doc">
+            <section class="main-section" id="Introduction">
+                <header>Introduction</header>
+                <p>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.</p>
+                <p>It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.</p>
+                <p>Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.</p>
+                <p>The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them.</p>
+                <p>The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages.</p>
+                <code>System.out.println("Hello, World!");</code>
+                <ul>
+                    <li>Platform independent</li>
+                    <li>Object-oriented</li>
+                    <li>Robust and secure</li>
+                    <li>Multithreaded</li>
+                    <li>High performance</li>
+                </ul>
+            </section>
+
+            <section class="main-section" id="Syntax">
+                <header>Syntax</header>
+                <p>Java syntax is largely influenced by C++. This section covers the basic syntax of Java.</p>
+                <p>A basic Java program consists of a class definition with a main method.</p>
+                <code>
+                    public class Main {<br>
+                    &emsp;public static void main(String[] args) {<br>
+                    &emsp;&emsp;System.out.println("Hello, World!");<br>
+                    &emsp;}<br>
+                    }
+                </code>
+                <p>Every statement in Java must end with a semicolon (;).</p>
+                <p>Blocks of code are defined using curly braces { and }.</p>
+                <p>Java is case-sensitive, meaning that "Main" and "main" are different identifiers.</p>
+                <p>Java classes are defined using the "class" keyword.</p>
+            </section>
+
+            <section class="main-section" id="Variables">
+                <header>Variables</header>
+                <p>Variables in Java are used to store data for processing. A variable is a container that holds data that can be changed during the execution of a program.</p>
+                <p>Java has three types of variables: local, instance, and static.</p>
+                <code>
+                    int number = 5;<br>
+                    String name = "John";<br>
+                    double price = 19.99;
+                </code>
+                <p>Variables must be declared before they are used.</p>
+                <p>Java is a strongly-typed language, meaning that each variable must be declared with a data type.</p>
+                <p>Variable names are case-sensitive and must begin with a letter, underscore (_), or dollar sign ($).</p>
+            </section>
+
+            <section class="main-section" id="Data_Types">
+                <header>Data Types</header>
+                <p>Java supports a variety of data types, which can be categorized into two types: primitive and non-primitive.</p>
+                <p>Primitive data types include byte, short, int, long, float, double, boolean, and char.</p>
+                <p>Non-primitive data types include Classes, Interfaces, and Arrays.</p>
+                <code>
+                    int age = 30;<br>
+                    char grade = 'A';<br>
+                    boolean isStudent = false;
+                </code>
+                <p>Each data type has a specific size and range. For example, an int is a 32-bit signed integer, whereas a byte is an 8-bit signed integer.</p>
+                <p>Non-primitive data types are created by the programmer and are not predefined by Java.</p>
+            </section>
+
+            <section class="main-section" id="Control_Flow">
+                <header>Control Flow</header>
+                <p>Control flow statements in Java allow you to control the order in which statements are executed.</p>
+                <p>Common control flow statements include if, else, switch, for, while, and do-while.</p>
+                <code>
+                    if (x > 0) {<br>
+                    &emsp;System.out.println("x is positive");<br>
+                    } else {<br>
+                    &emsp;System.out.println("x is non-positive");<br>
+                    }
+                </code>
+                <p>The if statement executes a block of code if its condition is true.</p>
+                <p>The else statement executes a block of code if the condition in the if statement is false.</p>
+                <p>Switch statements allow for the selection of one of many blocks of code to execute.</p>
+            </section>
+        </main>
+    </body>
+</html>
