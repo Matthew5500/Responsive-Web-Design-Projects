@@ -1,2 +1,2 @@
-# Project #13 - Technical Documentation Page
+# Project #14 - Technical Documentation Page
 In this project, I developed a technical documentation page for Java programming. The project demonstrates how to create a structured and responsive documentation layout using HTML and CSS. Key sections include an introduction to Java, syntax, variables, data types, and control flow. This exercise highlights the importance of semantic HTML elements and CSS styling techniques, such as fixed positioning and media queries, to ensure the documentation is user-friendly and accessible on various devices. Through this project, I've enhanced my skills in organizing and presenting technical information effectively on the web.
