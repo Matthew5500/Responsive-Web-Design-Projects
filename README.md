@@ -48,3 +48,6 @@ In this project, I explored the power of CSS variables by constructing a dynamic
 
 # Project #16 - Reviewing CSS Grid by Building a Magazine
 In this project, I explored the power of CSS Grid to create a responsive magazine layout. Using a combination of HTML and CSS, I structured the magazine's content to adapt seamlessly to various screen sizes. This project emphasizes the application of CSS Grid properties to design a complex layout that maintains its aesthetic and functionality across different devices. Through this exercise, I reinforced my understanding of responsive web design and learned to effectively use CSS Grid to build flexible and visually appealing web pages. This project also deepened my skills in implementing media queries and ensuring an optimal user experience.
+
+# Project #17 - Product Landing Page
+This project involves creating a responsive product landing page for a fictional company, ConsoleQuest. The page showcases the company's products, features, and contact information. Utilizing HTML and CSS, the design ensures a seamless user experience across different devices. Key elements include a sticky navigation bar, product categories with images, an embedded video, and a contact form. The layout adapts to various screen sizes through media queries, maintaining usability and aesthetic appeal on both desktop and mobile devices.
