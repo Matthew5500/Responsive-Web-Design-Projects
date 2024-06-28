@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1e1e1e;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+}
+
+#header-img {
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 50%; /* Round the edges of the logo */
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+#nav-bar {
+    display: flex;
+}
+
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 10px 20px;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}
+
+section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+#products, #features, #contact {
+    margin: 20px 0;
+}
+
+.product-category {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.product-category img {
+    width: 100%;
+    max-width: 400px; /* Increase the maximum width */
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 20px; /* Make the edges round */
+}
+
+#video {
+    margin: 20px auto;
+    max-width: 560px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#email {
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 400px;
+}
+
+#submit {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff0000;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#submit:hover {
+    background-color: #cc0000;
+}
+
+#footer {
+    background-color: #1e1e1e;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    #header {
+        flex-direction: column;
+    }
+
+    #nav-bar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-link {
+        margin: 5px 0;
+    }
+}
